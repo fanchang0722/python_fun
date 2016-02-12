@@ -24,8 +24,8 @@ emp1.display_employee()
 emp2.display_employee()
 print "Total Employee %d" % Employee.empCount
 print hasattr(emp1, 'name')
-emp1.age=7
-emp1.age=8
+emp1.age = 7
+emp1.age = 8
 print getattr(emp1, 'age')
 print Employee.__doc__
 print Employee.__name__
