@@ -1,0 +1,20 @@
+project_id: A65
+station_id: 6DOF_SFR 
+line_type: FATP # FATP, SMT, IQC and OQC
+line_id: F51
+log_level: 10   #debug:10, info:20, warning:30
+cam_exposure:    160000000
+source_location: '/data/tango'
+file_name1:      'fisheye_10.raw'
+file_name2:      'fisheye2_10.raw'
+dest_location:   '/usr/local/google/home/fanchang/Downloads/.'
+testIni_name1:   '/usr/local/google/home/fanchang/CommonUtils/libGTAL/Common/fisheye1.ini'
+testIni_name2:   '/usr/local/google/home/fanchang/CommonUtils/libGTAL/Common/fisheye2.ini'
+spec_file:       '/usr/local/google/home/fanchang/Clifford/example/Fisheye_spec.py'
+motor_file:      '/usr/local/google/home/fanchang/Clifford/example/motorController.py'
+upload_flag: 1
+test_mode: audit
+# engineering_mode: Ture  #password is 'abcd' V2.3.6station_id: stress_station
+# scan_sn: False   # at Gui, scan in serial number or not
+# num_unit: 1 # supported number: 1 - 8
+# cmd_line: False # start from command line or not, if not set, default is False

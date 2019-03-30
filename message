@@ -1,0 +1,7 @@
+OnInit
+Frame __init__
+A pretend error message
+Before MainLoop
+OnExit
+TypeError: invalid result from App.OnExit(), an integer is required
+

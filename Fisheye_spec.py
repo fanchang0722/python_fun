@@ -1,0 +1,46 @@
+# Dictionary for Fisheye SFR spec
+lower_spec = {
+    'Center_SFR_Ny4_H': 0.6,
+    'TopLeft_SFR_Ny4_H': 0.4,
+    'TopRight_SFR_Ny4_H': 0.4,
+    'BottomLeft_SFR_Ny4_H': 0.4,
+    'BottomRight_SFR_Ny4_H': 0.4,
+    'Center_SFR_Ny4_V': 0.6,
+    'TopLeft_SFR_Ny4_V': 0.4,
+    'TopRight_SFR_Ny4_V': 0.4,
+    'BottomLeft_SFR_Ny4_V': 0.4,
+    'BottomRight_SFR_Ny4_V': 0.4,
+    'Center_SFR_Ny2_H': 0.3,
+    'TopLeft_SFR_Ny2_H': 0.3,
+    'TopRight_SFR_Ny2_H': 0.3,
+    'BottomLeft_SFR_Ny2_H': 0.3,
+    'BottomRight_SFR_Ny2_H': 0.3,
+    'Center_SFR_Ny2_V': 0.3,
+    'TopLeft_SFR_Ny2_V': 0.3,
+    'TopRight_SFR_Ny2_V': 0.3,
+    'BottomLeft_SFR_Ny2_V': 0.3,
+    'BottomRight_SFR_Ny2_V': 0.3
+}
+
+upper_spec = {
+    'Center_SFR_Ny4_H': 1,
+    'TopLeft_SFR_Ny4_H': 1,
+    'TopRight_SFR_Ny4_H': 1,
+    'BottomLeft_SFR_Ny4_H': 1,
+    'BottomRight_SFR_Ny4_H': 1,
+    'Center_SFR_Ny4_V': 1,
+    'TopLeft_SFR_Ny4_V': 1,
+    'TopRight_SFR_Ny4_V': 1,
+    'BottomLeft_SFR_Ny4_V': 1,
+    'BottomRight_SFR_Ny4_V': 1,
+    'Center_SFR_Ny2_H': 1,
+    'TopLeft_SFR_Ny2_H': 1,
+    'TopRight_SFR_Ny2_H': 1,
+    'BottomLeft_SFR_Ny2_H': 1,
+    'BottomRight_SFR_Ny2_H': 1,
+    'Center_SFR_Ny2_V': 1,
+    'TopLeft_SFR_Ny2_V': 1,
+    'TopRight_SFR_Ny2_V': 1,
+    'BottomLeft_SFR_Ny2_V': 1,
+    'BottomRight_SFR_Ny2_V': 1
+}
